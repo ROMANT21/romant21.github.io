@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ROMANT21.github.io/romant21.github.io/static/css/main.ef04ac9a.css",
-    "main.js": "/ROMANT21.github.io/romant21.github.io/static/js/main.04703804.js",
-    "index.html": "/ROMANT21.github.io/romant21.github.io/index.html",
-    "main.ef04ac9a.css.map": "/ROMANT21.github.io/romant21.github.io/static/css/main.ef04ac9a.css.map",
-    "main.04703804.js.map": "/ROMANT21.github.io/romant21.github.io/static/js/main.04703804.js.map"
+    "main.css": "/static/css/main.ef04ac9a.css",
+    "main.js": "/static/js/main.b356da37.js",
+    "index.html": "/index.html",
+    "main.ef04ac9a.css.map": "/static/css/main.ef04ac9a.css.map",
+    "main.b356da37.js.map": "/static/js/main.b356da37.js.map"
   },
   "entrypoints": [
     "static/css/main.ef04ac9a.css",
-    "static/js/main.04703804.js"
+    "static/js/main.b356da37.js"
   ]
 }

@@ -222,3 +222,63 @@ export const badData = {
   },
 };
 
+export const harryData = {
+  across: {
+    3: {
+      clue: 'Styles\'s zodiac sign',
+      answer: 'AQUARIUS',
+      row: 1,
+      col: 13
+    },
+    7: {
+      clue: 'Harry Styles\' debut solo single',
+      answer: 'SIGNOFTHETIMES',
+      row: 10,
+      col: 0
+    },
+    8: {
+      clue: 'Which popular TV show did Harry appear on before his music career?',
+      answer: 'THEXFACTOR',
+      row: 18,
+      col: 0
+    },
+  },
+  down: {
+    1: {
+      clue: 'What was the title of Harry\'s debut solo album',
+      answer: 'HARRYSTYLES',
+      row: 0,
+      col: 13
+    },
+    2: {
+      clue: 'He often mixes masulinity and femininity in his outfits, showcasing what color often?',
+      answer: 'PINK',
+      row: 0,
+      col: 18
+    },
+    4: {
+      clue: 'The name of Harry\'s first band',
+      answer: 'WHITEESKIMO',
+      row: 2,
+      col: 10
+    },
+    5: {
+      clue: 'Movie where Styles played a soldier (2017)',
+      answer: 'DUNKIRK',
+      row: 8,
+      col: 3
+    },
+    6: {
+      clue: 'Former boy band Harry Styles was in',
+      answer: 'ONEDIRECTION',
+      row: 8,
+      col: 8
+    },
+    9: {
+      clue: 'Harry\'s role in Marvel\'s Eternals',
+      answer: 'EROS',
+      row: 18,
+      col: 2
+    }
+  },
+}

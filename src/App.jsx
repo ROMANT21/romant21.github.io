@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import Crossword from '@jaredreisinger/react-crossword';
-import { data } from './data.js';
+import { harryData } from './data.js';
 import './App.css';
 import { Modal, Box, Typography, Button } from '@mui/material';
 import 'normalize.css';
@@ -40,7 +40,7 @@ function App() {
         <Typography variant="h5" align="center" 
           sx={{ fontFamily: '"Bagel Fat One", sans-serif', color: '#FF4081'}}
         >
-         ❤️ Crossword For the best girlfriend in the world ❤️
+         🍉 CROSSWORD FOR HARRY STAN 🍉
         </Typography>
         <Box>
           <Crossword 
@@ -51,7 +51,7 @@ function App() {
               highlightBackground: ' #76FF03', //#FFEB3B',
             }}
             ref={crosswordRef} 
-            data={data} 
+            data={harryData} 
             onCrosswordCorrect={checkCrossword}
           />
         </Box>
@@ -78,9 +78,9 @@ function App() {
             <Typography variant="h5" 
               sx={{ fontFamily: '"Bagel Fat One", sans-serif', color: '#FF4081'}}
             >
-              Love you Boops!!!
+              SHES A MEGA FAN!!!
             </Typography>
-            <Box component="img" src="raccoon.jpg" sx={{ width: 200}}/>
+            <Box component="img" src="harry.jpg" sx={{ width: 200}}/>
             <Button variant="contained" onClick={resetCrossword}>
               <Typography variant="h5" 
                 sx={{ fontFamily: '"Bagel Fat One", sans-serif' }}
